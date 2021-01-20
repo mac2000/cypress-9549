@@ -1,0 +1,25 @@
+{
+  "name": "cypress-9549",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mac2000/cypress-9549.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mac2000/cypress-9549/issues"
+  },
+  "homepage": "https://github.com/mac2000/cypress-9549#readme",
+  "devDependencies": {
+    "cypress": "^6.3.0",
+    "lite-server": "^2.6.1"
+  }
+}
