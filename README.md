@@ -2,7 +2,7 @@
 
 ### Setup
 ```bash
-git clone https://github.com/MuckT/cypress-9549
+git clone https://github.com/mac2000/cypress-9549
 cd cypress-9549
 npm i
 npm start
